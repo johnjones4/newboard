@@ -1,0 +1,24 @@
+{
+  "name": "newsboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnjones4/newsboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnjones4/newsboard/issues"
+  },
+  "homepage": "https://github.com/johnjones4/newsboard#readme",
+  "dependencies": {
+    "async": "^2.1.2",
+    "electron": "^1.4.4",
+    "request": "^2.75.0"
+  }
+}

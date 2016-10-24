@@ -1,0 +1,39 @@
+body {
+  font-size: 16px;
+  line-height: 1em;
+  font-family: Helvetica;
+  background: #01BAEF;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.article {
+  width: 20%;
+  float: left;
+}
+
+.article-inner {
+  margin: 8px;
+  padding: 8px;
+  background: #FBFBFF;
+  box-shadow: 0 0 20px #0B4F6C;
+}
+
+h1,h2 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #040F16;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 12px;
+}
+
+/*B80C09*/
